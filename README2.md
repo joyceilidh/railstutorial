@@ -1,5 +1,7 @@
 == README
 
+This Readme is replacing README.rdoc and is a test of branching. I'm editing it in the learning branch.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
